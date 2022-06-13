@@ -7,14 +7,19 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.withContext
+import org.koin.dsl.module
 
-interface MovieDao {
+val characterDao = module {
+    single<CharacterDao> { CharacterDaoDaoImpl(get()) }
+}
+
+interface CharacterDao {
     fun deleteAllCharacters()
     suspend fun saveCharacters(input: List<Character>)
     fun loadAllCharacters(): Flow<List<Character>>
 }
 
-class MovieDaoImpl(databaseDriverFactory: DatabaseDriverFactory) : MovieDao {
+class CharacterDaoDaoImpl(databaseDriverFactory: DatabaseDriverFactory) : CharacterDao {
     private val database = AppDatabase.invoke(databaseDriverFactory.createDriver())
     private val queries = database.appDataBaseQueries
 
