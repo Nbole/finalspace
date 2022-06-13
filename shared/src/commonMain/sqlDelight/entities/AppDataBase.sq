@@ -1,0 +1,28 @@
+CREATE TABLE Character (
+    id INTEGER NOT NULL PRIMARY KEY,
+    name TEXT,
+    status TEXT,
+    species TEXT,
+    gender TEXT,
+    hair TEXT,
+    alias TEXT,
+    imgUrl TEXT
+);
+
+CREATE TABLE Episode (
+    id INTEGER NOT NULL PRIMARY KEY,
+    name TEXT,
+    airDate TEXT,
+    director TEXT,
+    writer TEXT,
+    imgUrl TEXT
+);
+
+loadCharacterById: SELECT * FROM Character WHERE id = :id;
+
+loadAllCharacters: SELECT * FROM Character;
+
+deleteAllCharacters: DELETE FROM Character;
+
+saveCharacters: INSERT OR REPLACE INTO Character VALUES (?,?,?,?,?,?,?,?);
+
