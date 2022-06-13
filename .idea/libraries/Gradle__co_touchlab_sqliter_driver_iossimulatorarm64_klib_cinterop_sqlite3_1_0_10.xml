@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:sqliter-driver-iossimulatorarm64:klib:cinterop-sqlite3:1.0.10" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/co.touchlab/sqliter-driver-iossimulatorarm64/1.0.10/66ffa659d85bb4fb8a0b0e77b963b68c041597e2/sqliter-driver-cinterop-sqlite3.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/co.touchlab/sqliter-driver-iossimulatorarm64/1.0.10/a656140b73fdf6b5d3dfb40452124afdc61652c/sqliter-driver-iossimulatorarm64-1.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

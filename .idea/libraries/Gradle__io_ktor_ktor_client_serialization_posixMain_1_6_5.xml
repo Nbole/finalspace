@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-serialization:posixMain:1.6.5" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.FinalSpace/commonTest/implementation/io.ktor-ktor-client-serialization/io.ktor-ktor-client-serialization-posixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization/1.6.5/63c3907d7ba8988fc480d180ce25e06dbb6c2e42/ktor-client-serialization-1.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

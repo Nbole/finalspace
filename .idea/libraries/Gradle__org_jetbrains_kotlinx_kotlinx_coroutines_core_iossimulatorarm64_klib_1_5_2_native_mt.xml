@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-iossimulatorarm64:klib:1.5.2-native-mt" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-iossimulatorarm64/1.5.2-native-mt/812986e845175e7eb3284572fc8496c6065a7379/kotlinx-coroutines-core.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-iossimulatorarm64/1.5.2-native-mt/5a89f13761949bc3fcd728009cbf8ded6aea8a13/kotlinx-coroutines-core-iossimulatorarm64-1.5.2-native-mt-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

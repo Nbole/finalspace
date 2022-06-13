@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-utils:utilsInterop:1.6.5" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.FinalSpace/commonTest/implementation/io.ktor-ktor-utils/io.ktor-ktor-utils-utilsInterop.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils/1.6.5/674ea4b9fdf3e2f63d9b402eb105a41ef7a5afb7/ktor-utils-1.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

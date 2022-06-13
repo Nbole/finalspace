@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-core:posixMain:1.6.5" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.FinalSpace/commonTest/implementation/io.ktor-ktor-client-core/io.ktor-ktor-client-core-posixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core/1.6.5/b6c35a6b9bc30ae137845e1ebab40e3a2714f9de/ktor-client-core-1.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

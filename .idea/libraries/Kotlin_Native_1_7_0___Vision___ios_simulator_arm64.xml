@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Kotlin/Native 1.7.0 - Vision | ios_simulator_arm64" type="kotlin.native">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.konan/kotlin-native-prebuilt-macos-x86_64-1.7.0/klib/platform/ios_simulator_arm64/org.jetbrains.kotlin.native.platform.Vision" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

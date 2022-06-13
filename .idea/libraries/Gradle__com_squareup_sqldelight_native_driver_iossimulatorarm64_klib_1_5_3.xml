@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.sqldelight:native-driver-iossimulatorarm64:klib:1.5.3" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/native-driver-iossimulatorarm64/1.5.3/5d66a697cad0ae9121f51143cb956bde0b280934/native-driver.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/native-driver-iossimulatorarm64/1.5.3/42db61731a50fa5d27f9f9fe754846682cac1348/native-driver-iossimulatorarm64-1.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
