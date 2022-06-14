@@ -22,7 +22,13 @@ loadCharacterById: SELECT * FROM Character WHERE id = :id;
 
 loadAllCharacters: SELECT * FROM Character;
 
+loadAllEpisodes: SELECT * FROM Episode;
+
 deleteAllCharacters: DELETE FROM Character;
 
+deleteAllEpisodes: DELETE FROM Episode;
+
 saveCharacters: INSERT OR REPLACE INTO Character VALUES (?,?,?,?,?,?,?,?);
+
+saveEpisotes: INSERT OR REPLACE INTO Episode VALUES (?,?,?,?,?,?);
 
